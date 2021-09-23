@@ -6,7 +6,7 @@ Edit the data.csv or periods csv and plot it again locally using jupyter-lab, or
 
 
  ## Example Plot
- ![examplePlot][fig.png]
+ ![examplePlot](fig.png)
 
 ## References
 Von Foerster, H. (1950). Quantum mechanical theory of memory. In Cybernetics: Transactions of the Sixth Conference. New York (pp. 112-145).
